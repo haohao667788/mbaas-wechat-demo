@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/todos/todos",
+    "pages/add-todo/add-todo"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "backgroundColor": "#323239",
+    "navigationBarBackgroundColor": "#323239",
+    "navigationBarTitleText": "Todo App",
+    "navigationBarTextStyle": "white"
+  }
+}
